@@ -1,0 +1,23 @@
+{
+    "name": "shapeways/feature",
+    "description": "Shapeways fork of Etsy's feature library. Forked in order to make it composer compatible. See: https://github.com/etsy/feature",
+    "authors": [
+        {
+            "name": "Etsy",
+            "email": "development@shapeways.com"
+        },
+        {
+            "name": "Wes John-Alder",
+            "email": "wes@shapeways.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Feature": "./",
+            "classmap": ["Feature.php"]
+        }
+    },
+    "license": "MIT"
+}
