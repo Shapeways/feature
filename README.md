@@ -1,7 +1,7 @@
 # Feature API
 
-Etsy's Feature flagging API used for operational rampups and A/B
-testing.
+Shapeways fork of Etsy's Feature flagging API used for operational rampups and A/B
+testing. This fork also includes the ability to install via Composer.
 
 The Feature API is how we selectively enable and disable features at a
 very fine grain as well as enabling features for a percentage of users
